@@ -18,3 +18,28 @@ To install and set up the project, follow these steps:
 2. Install dependencies:
    ```bash
     pip install -r requirements.txt
+3. Usage of main file:
+   ```bash
+   python main.py
+
+## Contributing
+We welcome contributions! Please follow these guidelines:
+
+1. Fork the repository.
+2. Create a feature branch (git checkout -b feature-branch).
+3. Commit your changes (git commit -am 'Add new feature').
+4. Push to the branch (git push origin feature-branch).
+5. Create a new Pull Request
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+For any questions or suggestions, please reach out to [Mail](mailto:vermatanisha135@gmail.com).
+
+## Code of Conduct
+Please adhere to the Code of Conduct while interacting with the community.
+
+## Questions
+If you have any questions, feel free to open an issue or contact us directly.
+
