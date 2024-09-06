@@ -15,5 +15,6 @@ To install and set up the project, follow these steps:
    ```bash
    git clone https://github.com/username/synthetic-vs-real.git
    cd synthetic-vs-real
-2. Install dpeendencies
-  pip install -r requirements.txt
+2. Install dependencies:
+   ```bash
+    pip install -r requirements.txt
